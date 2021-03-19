@@ -11,7 +11,7 @@ dash-renderer==0.17.0
 decorator==4.3.2
 Django==2.1.5
 django-rest-framework==0.1.0
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 Flask==1.0.2
 Flask-Compress==1.4.0
 idna==2.8
